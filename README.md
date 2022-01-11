@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on project related to application of AI and Data Science in current world.
 - 📫 How to reach me sunnykr.btech@gmail.com
+- 2022 goal - Contributing to Open Source
 
 <!---
 Sunnyio/Sunnyio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
