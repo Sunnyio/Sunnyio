@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunny Kumar
 - 👀 I’m interested in Data science and Cloud Technologies.
-- 🌱 I’m currently learning Deep Learning.
+- 🌱 I’m currently learning Deep Learning and Microsoft Azure.
 - 💞️ I’m looking to collaborate on project related to application of AI and Data Science in current world.
 - 📫 How to reach me sunnykr.btech@gmail.com
 - 2022 goal - Contributing to Open Source
