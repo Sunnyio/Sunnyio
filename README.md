@@ -5,6 +5,7 @@
 - 📫 How to reach me - sunnykr.btech@gmail.com
 - 2022 goal - Contributing to Open Source
 - Connect with me on <a href="https://www.linkedin.com/in/sunnyio/">Linkedin</a>
+- Connect with me on <a href="https://twitter.com/sunnykr_io">Twitter</a>
 <!---
 Sunnyio/Sunnyio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
