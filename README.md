@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on project related to application of AI and Data Science in current world.
 - 📫 How to reach me - sunnykr.btech@gmail.com
-- 2022 goal - Contributing to Open Source
+- 2022 goal - Explore data science 
 - Connect with me on <a href="https://www.linkedin.com/in/sunnyio/">Linkedin</a>
 - Connect with me on <a href="https://twitter.com/sunnykr_io">Twitter</a>
 <!---
